@@ -15,6 +15,8 @@ public class splash extends javax.swing.JFrame {
     /**
      * Creates new form splash
      */
+    
+//    ini adalah spalash screen
     public splash() {
         initComponents();
         Timer timer = new Timer(4000, e -> {
