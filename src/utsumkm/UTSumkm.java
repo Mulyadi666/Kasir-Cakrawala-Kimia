@@ -15,10 +15,7 @@ import java.math.BigDecimal;
 import java.text.NumberFormat;
 import java.text.ParseException;
 import java.util.Locale;
-import java.awt.Toolkit;
 import java.io.File;
-import java.io.IOException;
-import javax.sound.sampled.*;
 import java.awt.*;
 
 public class UTSumkm extends JFrame {
